@@ -27,6 +27,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "96. Unique Binary Search Tr
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "146. LRU Cache", "146. LRU Cache\146. LRU Cache.vcxproj", "{F13D32E5-3585-4376-A0EA-91C7FDDA8D57}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "133. Clone Graph", "133. Clone Graph\133. Clone Graph.vcxproj", "{8288BB21-9EB5-4390-A074-F70C43F415F2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -131,6 +133,14 @@ Global
 		{F13D32E5-3585-4376-A0EA-91C7FDDA8D57}.Release|x64.Build.0 = Release|x64
 		{F13D32E5-3585-4376-A0EA-91C7FDDA8D57}.Release|x86.ActiveCfg = Release|Win32
 		{F13D32E5-3585-4376-A0EA-91C7FDDA8D57}.Release|x86.Build.0 = Release|Win32
+		{8288BB21-9EB5-4390-A074-F70C43F415F2}.Debug|x64.ActiveCfg = Debug|x64
+		{8288BB21-9EB5-4390-A074-F70C43F415F2}.Debug|x64.Build.0 = Debug|x64
+		{8288BB21-9EB5-4390-A074-F70C43F415F2}.Debug|x86.ActiveCfg = Debug|Win32
+		{8288BB21-9EB5-4390-A074-F70C43F415F2}.Debug|x86.Build.0 = Debug|Win32
+		{8288BB21-9EB5-4390-A074-F70C43F415F2}.Release|x64.ActiveCfg = Release|x64
+		{8288BB21-9EB5-4390-A074-F70C43F415F2}.Release|x64.Build.0 = Release|x64
+		{8288BB21-9EB5-4390-A074-F70C43F415F2}.Release|x86.ActiveCfg = Release|Win32
+		{8288BB21-9EB5-4390-A074-F70C43F415F2}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
