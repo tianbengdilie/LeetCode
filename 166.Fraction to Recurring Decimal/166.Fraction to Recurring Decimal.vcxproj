@@ -20,9 +20,9 @@
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>15.0</VCProjectVersion>
-    <ProjectGuid>{CE184B43-F9B1-4A23-99CE-085CBF740F33}</ProjectGuid>
-    <RootNamespace>LeetCode</RootNamespace>
-    <WindowsTargetPlatformVersion>10.0.17763.0</WindowsTargetPlatformVersion>
+    <ProjectGuid>{57C045C8-DE57-4B78-9FFE-3CB3D4FA7FA6}</ProjectGuid>
+    <RootNamespace>My166FractiontoRecurringDecimal</RootNamespace>
+    <WindowsTargetPlatformVersion>10.0.18362.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
@@ -115,7 +115,10 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="模板.cpp" />
+    <None Include="166. Fraction to Recurring Decimal" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="源.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
