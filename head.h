@@ -11,7 +11,10 @@
 #include <sstream>
 #include <string>
 #include <queue>
+#include <Windows.h>
+//#include <semaphore.h>  这个是linux的
 #include <cmath>
+#include <mutex>
 using namespace std;
 
 //class Node {
@@ -26,3 +29,6 @@ using namespace std;
 //		neighbors = _neighbors;
 //	}
 //};
+
+void printFoo();
+void printBar();
