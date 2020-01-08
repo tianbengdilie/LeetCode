@@ -59,6 +59,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "324. Wiggle Sort II", "324.
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "334. Increasing Triplet Subsequence", "334. Increasing Triplet Subsequence\334. Increasing Triplet Subsequence.vcxproj", "{557DC9B6-D7E4-48AA-8E84-8C665E4481B8}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "378. Kth Smallest Element in a Sorted Matrix", "378. Kth Smallest Element in a Sorted Matrix\378. Kth Smallest Element in a Sorted Matrix.vcxproj", "{5DC10222-2FCD-4B90-A937-4F5950B90093}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -291,6 +293,14 @@ Global
 		{557DC9B6-D7E4-48AA-8E84-8C665E4481B8}.Release|x64.Build.0 = Release|x64
 		{557DC9B6-D7E4-48AA-8E84-8C665E4481B8}.Release|x86.ActiveCfg = Release|Win32
 		{557DC9B6-D7E4-48AA-8E84-8C665E4481B8}.Release|x86.Build.0 = Release|Win32
+		{5DC10222-2FCD-4B90-A937-4F5950B90093}.Debug|x64.ActiveCfg = Debug|x64
+		{5DC10222-2FCD-4B90-A937-4F5950B90093}.Debug|x64.Build.0 = Debug|x64
+		{5DC10222-2FCD-4B90-A937-4F5950B90093}.Debug|x86.ActiveCfg = Debug|Win32
+		{5DC10222-2FCD-4B90-A937-4F5950B90093}.Debug|x86.Build.0 = Debug|Win32
+		{5DC10222-2FCD-4B90-A937-4F5950B90093}.Release|x64.ActiveCfg = Release|x64
+		{5DC10222-2FCD-4B90-A937-4F5950B90093}.Release|x64.Build.0 = Release|x64
+		{5DC10222-2FCD-4B90-A937-4F5950B90093}.Release|x86.ActiveCfg = Release|Win32
+		{5DC10222-2FCD-4B90-A937-4F5950B90093}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
