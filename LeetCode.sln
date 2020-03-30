@@ -75,6 +75,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1071. Greatest Common Divis
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Get Divisor of String", "Get Divisor of String\Get Divisor of String.vcxproj", "{EB11CE1A-604A-4D18-8168-A6AC662E3B81}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "面试题62. 圆圈中最后剩下的数字", "面试题62. 圆圈中最后剩下的数字\面试题62. 圆圈中最后剩下的数字.vcxproj", "{8770C1FC-2680-4737-AB4B-5283613A9F30}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -371,6 +373,14 @@ Global
 		{EB11CE1A-604A-4D18-8168-A6AC662E3B81}.Release|x64.Build.0 = Release|x64
 		{EB11CE1A-604A-4D18-8168-A6AC662E3B81}.Release|x86.ActiveCfg = Release|Win32
 		{EB11CE1A-604A-4D18-8168-A6AC662E3B81}.Release|x86.Build.0 = Release|Win32
+		{8770C1FC-2680-4737-AB4B-5283613A9F30}.Debug|x64.ActiveCfg = Debug|x64
+		{8770C1FC-2680-4737-AB4B-5283613A9F30}.Debug|x64.Build.0 = Debug|x64
+		{8770C1FC-2680-4737-AB4B-5283613A9F30}.Debug|x86.ActiveCfg = Debug|Win32
+		{8770C1FC-2680-4737-AB4B-5283613A9F30}.Debug|x86.Build.0 = Debug|Win32
+		{8770C1FC-2680-4737-AB4B-5283613A9F30}.Release|x64.ActiveCfg = Release|x64
+		{8770C1FC-2680-4737-AB4B-5283613A9F30}.Release|x64.Build.0 = Release|x64
+		{8770C1FC-2680-4737-AB4B-5283613A9F30}.Release|x86.ActiveCfg = Release|Win32
+		{8770C1FC-2680-4737-AB4B-5283613A9F30}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
