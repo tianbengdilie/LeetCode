@@ -77,6 +77,10 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Get Divisor of String", "Ge
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "面试题62. 圆圈中最后剩下的数字", "面试题62. 圆圈中最后剩下的数字\面试题62. 圆圈中最后剩下的数字.vcxproj", "{8770C1FC-2680-4737-AB4B-5283613A9F30}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1162. As Far from Land as Possible", "1162. As Far from Land as Possible\1162. As Far from Land as Possible.vcxproj", "{FB637628-FC7E-4873-9D57-4AF5ED074F8F}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "912. Sort an Array", "912. Sort an Array\912. Sort an Array.vcxproj", "{4118B99A-06F6-4280-8363-277E54DAB61B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -381,6 +385,22 @@ Global
 		{8770C1FC-2680-4737-AB4B-5283613A9F30}.Release|x64.Build.0 = Release|x64
 		{8770C1FC-2680-4737-AB4B-5283613A9F30}.Release|x86.ActiveCfg = Release|Win32
 		{8770C1FC-2680-4737-AB4B-5283613A9F30}.Release|x86.Build.0 = Release|Win32
+		{FB637628-FC7E-4873-9D57-4AF5ED074F8F}.Debug|x64.ActiveCfg = Debug|x64
+		{FB637628-FC7E-4873-9D57-4AF5ED074F8F}.Debug|x64.Build.0 = Debug|x64
+		{FB637628-FC7E-4873-9D57-4AF5ED074F8F}.Debug|x86.ActiveCfg = Debug|Win32
+		{FB637628-FC7E-4873-9D57-4AF5ED074F8F}.Debug|x86.Build.0 = Debug|Win32
+		{FB637628-FC7E-4873-9D57-4AF5ED074F8F}.Release|x64.ActiveCfg = Release|x64
+		{FB637628-FC7E-4873-9D57-4AF5ED074F8F}.Release|x64.Build.0 = Release|x64
+		{FB637628-FC7E-4873-9D57-4AF5ED074F8F}.Release|x86.ActiveCfg = Release|Win32
+		{FB637628-FC7E-4873-9D57-4AF5ED074F8F}.Release|x86.Build.0 = Release|Win32
+		{4118B99A-06F6-4280-8363-277E54DAB61B}.Debug|x64.ActiveCfg = Debug|x64
+		{4118B99A-06F6-4280-8363-277E54DAB61B}.Debug|x64.Build.0 = Debug|x64
+		{4118B99A-06F6-4280-8363-277E54DAB61B}.Debug|x86.ActiveCfg = Debug|Win32
+		{4118B99A-06F6-4280-8363-277E54DAB61B}.Debug|x86.Build.0 = Debug|Win32
+		{4118B99A-06F6-4280-8363-277E54DAB61B}.Release|x64.ActiveCfg = Release|x64
+		{4118B99A-06F6-4280-8363-277E54DAB61B}.Release|x64.Build.0 = Release|x64
+		{4118B99A-06F6-4280-8363-277E54DAB61B}.Release|x86.ActiveCfg = Release|Win32
+		{4118B99A-06F6-4280-8363-277E54DAB61B}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
