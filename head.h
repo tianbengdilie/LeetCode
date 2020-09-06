@@ -17,18 +17,13 @@
 #include <mutex>
 using namespace std;
 
-//class Node {
-//public:
-//	int val;
-//	vector<Node*> neighbors;
-//
-//	Node() {}
-//
-//	Node(int _val, vector<Node*> _neighbors) {
-//		val = _val;
-//		neighbors = _neighbors;
-//	}
-//};
+struct TreeNode {
+	int val;
+	TreeNode *left;
+	TreeNode *right;
+	TreeNode(int x) : val(x), left(NULL), right(NULL) {}
+	
+};
 
 void printFoo();
 void printBar();
